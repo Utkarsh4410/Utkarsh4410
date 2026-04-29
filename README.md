@@ -17,8 +17,11 @@ class Utkarsh:
         self.role = "Developer & ML Enthusiast"
         self.languages = ["Python", "HTML", "CSS", "JavaScript"]
         self.interests = ["Machine Learning", "Computer Vision", "Web Development"]
-        self.current_project = "Hand Gesture → English Translator (99.94% accuracy!)"
-        self.fun_fact = "I build AI that understands sign language 🤟"
+        self.current_projects = [
+            "Hand Gesture → English Translator (99.94% accuracy!)",
+            "3D Interactive Climate Change Website (Three.js & GSAP)"
+        ]
+        self.fun_fact = "I build AI that understands sign language 🤟 and craft 3D web experiences 🌍"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome together!")
@@ -41,6 +44,8 @@ me.say_hi()
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
