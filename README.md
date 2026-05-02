@@ -39,7 +39,6 @@ me.say_hi()
 - 📈 **Deployed Stock Market Predictor** with LSTM models and live AI Sentiment Analysis.
 - 👶 **Launched [KAYA](https://github.com/Utkarsh4410/KAYA)**, an AI-powered Virtual Doula & Pregnancy Health Tracker.
 - 🌍 **Upgraded [Climate Change](https://github.com/Utkarsh4410/climate-change)** website to a modern 3D experience using Three.js & GSAP.
-- 🤖 **Automated** GitHub contribution streaks using custom GitHub Actions.
 
 ---
 
