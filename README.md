@@ -18,10 +18,12 @@ class Utkarsh:
         self.languages = ["Python", "HTML", "CSS", "JavaScript"]
         self.interests = ["Machine Learning", "Computer Vision", "Web Development"]
         self.current_projects = [
-            "Hand Gesture → English Translator (99.94% accuracy!)",
-            "3D Interactive Climate Change Website (Three.js & GSAP)"
+            "KAYA - AI Pregnancy Assistant 👶",
+            "Indian Stock Market Predictor 📈",
+            "3D Interactive Climate Change Website 🌍",
+            "Hand Gesture → English Translator 🤟"
         ]
-        self.fun_fact = "I build AI that understands sign language 🤟 and craft 3D web experiences 🌍"
+        self.fun_fact = "I build intelligent AI assistants and craft 3D web experiences!"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome together!")
@@ -29,6 +31,15 @@ class Utkarsh:
 me = Utkarsh()
 me.say_hi()
 ```
+
+---
+
+## 🔥 Recent Updates
+
+- 📈 **Deployed Stock Market Predictor** with LSTM models and live AI Sentiment Analysis.
+- 👶 **Launched [KAYA](https://github.com/Utkarsh4410/KAYA)**, an AI-powered Virtual Doula & Pregnancy Health Tracker.
+- 🌍 **Upgraded [Climate Change](https://github.com/Utkarsh4410/climate-change)** website to a modern 3D experience using Three.js & GSAP.
+- 🤖 **Automated** GitHub contribution streaks using custom GitHub Actions.
 
 ---
 
